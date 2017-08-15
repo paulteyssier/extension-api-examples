@@ -227,6 +227,7 @@ SYMPHONY.remote.hello().then(function(data) {
                         diff.hrs + " hrs, " + diff.min + " minutes, and " + diff.sec + " seconds",
                         countdown: (until.getMonth() + 1) + "/" + until.getDate() + "/" + until.getFullYear(),
                         version: entityData.version
+                        gdfgdfshdgfhgfhgfshsgf
                     },
                     entityInstanceId: entityData.instanceId
                 }
